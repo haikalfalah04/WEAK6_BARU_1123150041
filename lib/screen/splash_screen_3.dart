@@ -99,7 +99,7 @@ class MySplashScreen3 extends StatelessWidget {
                   height: 55,
                   child: ElevatedButton(
                     style: ElevatedButton.styleFrom(
-                      backgroundColor: const Color.fromARGB(255, 11, 231, 59),
+                      backgroundColor: const Color.fromARGB(255, 255, 3, 3),
                       shape: RoundedRectangleBorder(
                         borderRadius: BorderRadius.circular(12),
                       ),
